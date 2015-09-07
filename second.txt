@@ -1,2 +1,2 @@
 This is our second commit.
-A change.
+A change is good.

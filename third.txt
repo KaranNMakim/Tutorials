@@ -1,2 +1,2 @@
 This is our third commit
-Another change.
+Another change is bad.
